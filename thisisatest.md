@@ -10,3 +10,6 @@ No.
 can I reference an image?
 
 ![wat](/Screen Shot 2019-04-26 at 12.33.14.png)
+but i can add an image tag?
+
+<img src="Screen Shot 2019-04-26 at 12.33.14.png">
